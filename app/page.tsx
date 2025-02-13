@@ -143,7 +143,7 @@ export default function Home() {
                     <h3 className="text-xl font-semibold mb-2">What Sets Us Apart</h3>
                     <p className="text-gray-600">
                       What sets us apart is our commitment to personalized training programs, cutting-edge equipment,
-                      and a strong sense of community. At ATOM, you're not just a member – you're part of a family
+                      and a strong sense of community. At ATOM, you&apos;re not just a member – you&apos;re part of a family
                       dedicated to health and wellness.
                     </p>
                   </div>
